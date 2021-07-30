@@ -18,7 +18,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">&nbsp;&nbsp;<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">&nbsp;&nbsp;<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp;&nbsp;<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 
 ## 📊 Stats
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=Aelbish&show_icons=true&theme=dark"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=ShrillShrestha&show_icons=true&theme=dark"/>
 <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark&layout=compact"/>
   
 ## 📞 Contact

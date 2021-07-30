@@ -5,11 +5,11 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 
 ## 💡 Projects
 <ul>
-  <li>[InstaMemories](https://l20-instamemories.netlify.app/posts)</li>
-  <li>[Chat App](https://l20-chat.netlify.app/)</li>
-  <li>[Find Fitness](https://l20-find-fitness.herokuapp.com/)</li>
-  <li>[AIMS Fuel Dispatcher](https://github.com/Aelbish/CSCI-4060-AIMS-Project)</li>
-  <li>[ULM Online Dashboard](https://aelbish.github.io/ULM-Dashboard/)</li>
+  <li><a href="https://l20-instamemories.netlify.app/posts">InstaMemories</a></li>
+  <li><a href="https://l20-chat.netlify.app/">Chat App</a></li>
+  <li><a href="https://l20-find-fitness.herokuapp.com/">InstaMemories</a></li>
+  <li><a href="https://github.com/Aelbish/CSCI-4060-AIMS-Project">AIMS Fuel Dispatcher</a></li>
+  <li><a href="https://aelbish.github.io/ULM-Dashboard/">ULM Online Dashboard</a></li>
 </ul>
 
 ## 💻 Tools

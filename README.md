@@ -7,7 +7,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 <ul>
   <li><a href="https://l20-instamemories.netlify.app/posts">InstaMemories</a></li>
   <li><a href="https://l20-chat.netlify.app/">Chat App</a></li>
-  <li><a href="https://l20-find-fitness.herokuapp.com/">InstaMemories</a></li>
+  <li><a href="https://l20-find-fitness.herokuapp.com/">Find Fitness</a></li>
   <li><a href="https://github.com/Aelbish/CSCI-4060-AIMS-Project">AIMS Fuel Dispatcher</a></li>
   <li><a href="https://aelbish.github.io/ULM-Dashboard/">ULM Online Dashboard</a></li>
 </ul>
@@ -19,7 +19,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 
 ## 📊 Stats
 ![Aelbish's github stats](https://github-readme-stats.vercel.app/api?username=Aelbish&show_icons=true&theme=dark)
-![Aelbish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark)
+![Aelbish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark&layout=compact)
   
 ## 📞 Contact
 <p align="center">

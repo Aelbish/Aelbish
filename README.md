@@ -24,4 +24,4 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 ## 📞 Contact
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/aelbish/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aelbish%20Shrestha-blue?style=flat-square&logo=linkedin"></a>&nbsp;
-<a href="mailto:aelbish@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aelbish@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:aelbish@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Aelbish%20Shrestha-blue?style=flat-square&logo=gmail"></a>

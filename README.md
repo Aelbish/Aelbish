@@ -6,7 +6,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 ![Aelbish's github stats](https://github-readme-stats.vercel.app/api?username=Aelbish&show_icons=true&theme=dark)
 
 ![Aelbish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark)
-</P>
+</p>
 ## 📫 Connect with Me
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->

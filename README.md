@@ -1,4 +1,4 @@
-### Hi there 👋
+![website_logo_transparent_background](https://user-images.githubusercontent.com/49761123/127601268-c075cc91-3f01-4de0-9f4c-64563ecec4e5.png)
 
 <!--
 **Aelbish/Aelbish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

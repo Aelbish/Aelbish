@@ -19,7 +19,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 
 ## 📊 Stats
 <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=Aelbish&show_icons=true&theme=dark"/>
-<img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark&layout=compact"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark&layout=compact"/>
   
 ## 📞 Contact
 <p align="center">

@@ -22,6 +22,6 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 <img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelbish&show_icons=true&theme=dark&layout=compact"/>
   
 ## 📞 Contact
-<a href="https://aelbish.com/"><img alt="Website" src="https://img.shields.io/badge/Website-aelbish.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/aelbish/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aelbish%20Shrestha-white?style=flat-square&logo=linkedin"></a>&nbsp;
-<a href="mailto:aelbish@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Aelbish%20Shrestha-red?style=flat-square&logo=gmail"></a>
+[![Website Badge](https://img.shields.io/badge/-aelbish.com-c89c04?style=flat&logo=Google-Chrome&logoColor=white&link=https://aelbish.com)](https://aelbish.com)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-aelbish-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aelbish/)](https://www.linkedin.com/in/aelbish/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-aelbish@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aelbish@gmail.com)](mailto:aelbish@gmail.com)

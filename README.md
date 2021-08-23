@@ -5,6 +5,7 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 
 ## 💡 Projects
 <ul>
+  <li><a href="https://l20-foodhub.netlify.app/" target="_blank">FoodHub</a></li>
   <li><a href="https://l20-instamemories.netlify.app/posts" target="_blank">InstaMemories</a></li>
   <li><a href="https://l20-chat.netlify.app/" target="_blank">Chat App</a></li>
   <li><a href="https://l20-find-fitness.herokuapp.com/" target="_blank">Find Fitness</a></li>

@@ -25,4 +25,3 @@ I am a recent Computer Science graduate who loves coding and working out.<br>
 ## 📞 Contact
 [![Website Badge](https://img.shields.io/badge/-aelbish.com-c89c04?style=flat&logo=Google-Chrome&logoColor=white&link=https://aelbish.com)](https://aelbish.com)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-aelbish-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aelbish/)](https://www.linkedin.com/in/aelbish/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-aelbish@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aelbish@gmail.com)](mailto:aelbish@gmail.com)

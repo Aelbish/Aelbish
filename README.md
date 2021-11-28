@@ -1,6 +1,6 @@
 ![website_logo_transparent_background](https://user-images.githubusercontent.com/49761123/127601268-c075cc91-3f01-4de0-9f4c-64563ecec4e5.png)
 
-## 🖐 Hi there, I'm Aelbish!
+## 🖐 Hi there, This is L20!
 I am a recent Computer Science graduate who loves coding and working out.<br>
 
 ## 💡 Projects
